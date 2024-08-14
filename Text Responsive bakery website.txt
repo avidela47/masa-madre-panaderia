@@ -1,0 +1,124 @@
+========== HEADER ==========
+.nav__logo
+Masa Madre
+
+.nav__link
+Inicio - Destacados - Nosotros - Favoritos - Visitanos
+
+
+========== HOME ==========
+.home__title
+Seleccione Los Mejores <br> Panes de Calidad
+
+.button
+Seleccionar panes
+
+.home__location span
+Esmeralda #535 <br> Cordoba | Argentina
+
+.home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.tiktok.com/es/
+
+
+========== NEWS ==========
+.section__title
+Nuevos panes
+
+.new__title .new__description
+Pan de centeno
+Al horno con ingredientes saludables y sin gluten. 
+Masa madre para una buena nutrición.
+
+Pan Integral
+Crujientes y preparados en casa 
+de harina orgánica sin levadura.
+
+Pan Multicereales
+Sabrosos y elaborados con diferentes 
+Granos naturales del campo.
+
+.new__button
+Ver más panes
+
+
+========== ABOUT ==========
+.section__title
+Nosotros
+
+.about__description
+Preparamos todo tipo de pan que se elaboran en casa, 
+manteniendo la tradición de utilizar sólo lo mejor 
+ingredientes elaborados con productos locales siempre que sea posible. 
+Contamos con una extensa línea de panadería recién preparada
+y productos de café.
+
+.button
+Saber más
+
+
+========== FAVORITES ==========
+.section__title
+Favoritos del cliente
+
+.favorite__title .favorite__subtitle .favorite__price
+Grano Integral
+Pan
+$6.00
+
+Centeno
+Pan
+$8.00
+
+Wheat
+Pan
+$3.00
+
+Multigrano
+Pan
+$5.00
+
+Masa Fermentada
+Pan
+$7.00
+
+Frances
+Pan
+$3.00
+
+
+========== VISIT ==========
+.section__title
+Visitanos
+
+.visit__description
+Descubre el mejor pan, esperamos tu visita.
+
+.button
+Ver Ubicación
+
+
+========== FOOTER ==========
+.footer__logo
+Masa Madre
+
+.footer__description
+Hacemos el mejor pan <br> de la ciudad.
+
+footer__title .footer__info
+Dirección
+Esmeralda #535 <br> Cordoba | Argentina
+ 8AM - 20PM
+
+Contactanos
+ masamadre@gmail.com
+ +00 987 654 321
+
+Follow Us
+ https://www.facebook.com/
+ https://www.instagram.com/
+https://www.tiktok.com/es/
+
+.footer__copy
+2024 - MASA MADRE - Todos los derechos reservados | Diseño WebAriel Videla
